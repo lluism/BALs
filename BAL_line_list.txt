@@ -75,6 +75,7 @@ S{\sc iii} $\lambda1012$ \dotfill & $1012.495$ & $0.04380$ & $1$\\
 Si{\sc ii} $\lambda1020$ \dotfill & $1020.698$ & $0.01680$ & $1$\\
 H{\sc i} $\lambda1025$ \dotfill & $1025.722$ & $0.07914$ & $1$\\
 O{\sc i} $\lambda1027$ \dotfill & $1027.431$ & $0.01962$ & $2$\\
+O{\sc i} $\lambda1028$ \dotfill & $1028.157$ & $0.02010$ & $2$\\
 O{\sc vi} $\lambda1031$ \dotfill & $1031.926$ & $0.13250$ & $1$\\
 C{\sc ii} $\lambda1036$ \dotfill & $1036.336$ & $0.11800$ & $1$\\
 C{\sc ii} $\lambda1037$ \dotfill & $1037.018$ & $0.11800$ & $2$\\ 
