@@ -19,7 +19,7 @@ benefit from it.
   The stacked spectra are raw, i.e., they are the ones computed without any additional 
 re-normalization used in the analysis.
 
-  I have also added a few PPT slides I use to explain line locking. Feel free to use them 
+  I have also added a few PDF slides I use to explain line locking. Feel free to use them 
 if you find them useful.
 
 Lluis
